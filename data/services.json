@@ -1,0 +1,29 @@
+[
+  {
+    "id": "4958327e-af38-42b8-a17d-b7960004894d",
+    "href": "http://localhost:8080/service/9880e0f8-0445-4eea-8076-a8e194a795df",
+    "serviceDate": "2025-06-21T17:12:45.111Z",
+    "serviceSpecification": {
+      "id": "cfs45"
+    },
+    "state": "active"
+  },
+  {
+    "id": "e2a30ce7-8da3-4b74-a3f9-4547378b7b1c",
+    "href": "http://localhost:8080/service/6c3f876d-993c-48ca-9a18-274f04619f03",
+    "serviceDate": "2025-06-21T17:22:20.195Z",
+    "serviceSpecification": {
+      "id": "cfs45"
+    },
+    "state": "active"
+  },
+  {
+    "id": "87a5b32c-2e56-447e-b9f4-c0bfc5d8d2d3",
+    "href": "http://localhost:8080/service/ef7758a2-c9d4-44bf-bf94-5855b85083dc",
+    "serviceDate": "2025-06-21T17:23:00.634Z",
+    "serviceSpecification": {
+      "id": "cfs45"
+    },
+    "state": "active"
+  }
+]

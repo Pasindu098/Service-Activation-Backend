@@ -9,7 +9,9 @@ app.use(express.json());
 const dataFile = './data/services.json';
 
 // Ensure services.json exists
-
+if (!fs.existsSync(dataFile)) {
+  fs.writeFileSync(dataFile, '[]');
+}
 
 function readData() {
   return JSON.parse(fs.readFileSync(dataFile, 'utf8'));
